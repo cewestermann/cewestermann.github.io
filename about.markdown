@@ -3,16 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi there! I'm Christian Westermann, a PhD-student in Econometrics.
+Since starting my PhD, I've pivoted more towards the fields of Machine Learning and Data Science, as I believe there are valuable things to learn that can help push the field of Econometrics. While the statistics of it all remains largely the same, there have been and are still tons of unfamiliar subjects and concepts to learn. I've learned from experience that teaching really takes my understanding of a subject to another level. That is why I've created this website, to share my understanding of these areas and consequently improve my own learning. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Content will mainly be educational but I've developed a large curiosity within the field of Computer Science, so it's likely that I'll share other stuff that might be deviate from the main topics. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I hope you enjoy! :)
