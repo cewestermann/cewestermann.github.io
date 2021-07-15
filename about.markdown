@@ -9,3 +9,4 @@ Since starting my PhD, I've pivoted more towards the fields of Machine Learning 
 Content will mainly be about my ML-journey but I've developed a large curiosity within the field of Computer Science, so it's likely that I'll share other stuff that might deviate from the main topics. 
 
 I hope you enjoy! :)
+test
