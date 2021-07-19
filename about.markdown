@@ -3,9 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hi there! I'm Christian Westermann, a PhD-student in Econometrics.
-Since starting my PhD, I've pivoted more towards the fields of Machine Learning (ML) and Data Science, as I believe there are valuable things to learn that can help push the field of Econometrics. While many statistical and mathematical concepts are familiar, there have been and are still tons of unfamiliar subjects and areas to learn. I've learned from experience that teaching really takes my understanding of a subject to another level. That is why I've created this website, to share my understanding of these areas and consequently improve my own learning. 
+Hi there! I'm Christian Westermann.
 
-Content will mainly be about my ML-journey but I've developed a large curiosity within the field of Computer Science, so it's likely that I'll share other stuff that might deviate from the main topics. 
+I'm a PhD-student in Econometrics and Machine Learning as also mentioned on the [About] page. I have a Masters in Economics and have been working with Machine Learning (ML) since my Bachelors thesis, which makes it about five years. During my PhD, I've been a teaching assistant as well as lecturer in multiple courses in statistical learning, data-driven decision making and natural language processing. 
 
-I hope you enjoy! :)
+As time passed, my interest in ML as well as Computer Science (CS) did all but diminish. As a consequence, I am now several feet deep into these (non-exhaustable) fields and this blog will serve as a sort of educational journal. I know from first-hand experience that teaching increases my own understanding of the subject manyfold which is why I've decided to share my progress. 
+
+A quick disclaimer: I might have taught courses in ML but the topics that I post about on this blog will be largely unfamiliar to me. I use the posts as a way of cementing my understanding as well as share how i perceive things. As such, the content of this blog should not be viewed as the ground truth. I am learning this alongside you, so please remain critical.
+
+Content posted here will mainly be about topics in ML (and specifically Graph Representation Learning to begin with), but I might sneak a few unrelated posts about CS-related things that I find interesting. (I recently dove into Structural Interpretation of Computer Programs, but I might have to read it over a few times before I post anything, yikes.)
+
+Anyway, I hope you enjoy! :)
