@@ -1,6 +1,6 @@
 --
 layout: post
-title: From Econometrics To Graph Machine Learning - An Introduction
+title: "From Econometrics To Graph Machine Learning - An Introduction"
 ---
 
 # {{ page.title }}
