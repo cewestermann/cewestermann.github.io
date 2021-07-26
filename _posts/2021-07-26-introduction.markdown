@@ -1,8 +1,7 @@
----
+--
 layout: post
 title: From Econometrics To Graph Machine Learning - An Introduction
 ---
-
 
 # {{ page.title }}
 
@@ -13,7 +12,6 @@ Welcome to the first ever post of this blog, glad to have you! In this post, I'l
 I've worked with Machine Learning (ML) for a long time now, mostly related to computer vision and natural language processing. While it has given me a lot of insight into the field and helped me improve both theoretically and applied, it is hard to apply directly to the world of economics. 
 
 I then came across graph ML at the same time that I was introduced to graph theory via a course in Causality, a field very much applicable in economics. It was the combination of my general interest in graph theory, its applications within economics and finally, the potential it shows within ML as well as Deep Learning (DL) that convinced me to pursue this path.
-
 
 ### The first series
 
@@ -27,6 +25,7 @@ Econometricians value inference considerably more that prediction power. While p
 I added this disclaimer in the About-section as well, but I'll put it here too. This is an educational journal, meaning that I have not taught these subjects and most of them are unfamiliar to me. I will talk about how I perceive the various topics and I am learning as I go, the same as you. I hope that my experiences can help you learn as much as it can me.
 
 Comments and feedback are very welcome! :)
+
 
 
 
