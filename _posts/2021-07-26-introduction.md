@@ -4,7 +4,6 @@ title: "From Econometrics To Graph Machine Learning - An Introduction"
 date:   2021-07-26 17:18:47 +0200
 ---
 
-# {{ page.title }}
 
 Welcome to the first ever post of this blog, glad to have you! In this post, I'll give an introduction to the first series of posts that I'll put out. As you've likely noticed from the title, it'll be about my personal educational journey from the field of Econometrics to the world of Graph Theory and Representation Learning. 
 
