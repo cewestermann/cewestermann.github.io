@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From Econometrics To Graph Machine Learning - An Introduction"
+date:   2021-07-26 17:18:47 +0200
 ---
 
 # {{ page.title }}
