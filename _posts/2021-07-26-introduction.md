@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "From Econometrics To Graph Machine Learning - An Introduction"
 ---
