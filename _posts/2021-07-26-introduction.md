@@ -18,16 +18,9 @@ I'll release a series of posts regarding this whole endeavour in the near future
 
 Econometricians value inference considerably more that prediction power. While prediction power remains relevant, we are usually more interested in effects following some treatment (not necessarily medical). This also means that many of our methods do not offer much flexibility as you sacrifice inference capabilities as you turn to more and more complex models. You can probably imagine an ordinary linear regression using least squares is one of the most interpretable models, but it cannot estimate non-linear parameters. At the other end of the spectrum, you have support vector machines with radial kernels as well as deep neural networks. If you do not have any experience with these methods, we'll come across them.
 
-
 ### Disclaimer
 
 I added this disclaimer in the About-section as well, but I'll put it here too. This is an educational journal, meaning that I have not taught these subjects and most of them are unfamiliar to me. I will talk about how I perceive the various topics and I am learning as I go, the same as you. I hope that my experiences can help you learn as much as it can me.
 
-Comments and feedback are very welcome! :)
-
-
-
-
-
-
+Comments and feedback are very welcome! :) (I'll implement the ability to comment ASAP)
 
